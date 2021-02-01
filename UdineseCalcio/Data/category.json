@@ -1,0 +1,82 @@
+[
+  {
+    "id" : 1,
+    "name" : "Allenamento",
+    "image" : "icon-helmet"
+  },
+  {
+    "id" : 2,
+    "name" : "Maglia",
+    "image" : "icon-jersey"
+  },
+  {
+    "id" : 3,
+    "name" : "Guanti",
+    "image" : "icon-gloves"
+  },
+  {
+    "id" : 4,
+    "name" : "Cartellonistica",
+    "image" : "icon-shoes"
+  },
+  {
+    "id" : 5,
+    "name" : "Abbigliamento portieri",
+    "image" : "icon-shoulder-pads"
+  },
+  {
+    "id" : 6,
+    "name" : "Energy food",
+    "image" : "icon-integrated-pad-girdle"
+  },
+  {
+    "id" : 7,
+    "name" : "Coppe",
+    "image" : "icon-football"
+  },
+  {
+    "id" : 8,
+    "name" : "Medagli",
+    "image" : "icon-outerwear"
+  },
+  {
+    "id" : 9,
+    "name" : "Promo sconti",
+    "image" : "icon-ticket"
+  },
+  {
+    "id" : 10,
+    "name" : "Trofei",
+    "image" : "icon-trophy"
+  },
+  {
+    "id" : 11,
+    "name" : "Energy Drink",
+    "image" : "icon-energy-drink"
+  },
+  {
+    "id" : 12,
+    "name" : "Scarpe",
+    "image" : "icon-ppe-facemask"
+  },
+  {
+    "id" : 13,
+    "name" : "Palloni",
+    "image" : "icon-cheerleading-clothes"
+  },
+  {
+    "id" : 14,
+    "name" : "Allenamento tute",
+    "image" : "icon-cheerleading-gear"
+  },
+  {
+    "id" : 15,
+    "name" : "Arbitri",
+    "image" : "icon-whistle"
+  },
+  {
+    "id" : 16,
+    "name" : "Allenamenti ",
+    "image" : "icon-stopwatch"
+  }
+]

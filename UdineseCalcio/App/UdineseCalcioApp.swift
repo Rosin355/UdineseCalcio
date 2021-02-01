@@ -11,7 +11,8 @@ import SwiftUI
 struct UdineseCalcioApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ShopView()
+                .environmentObject(Shop())
         }
     }
 }
